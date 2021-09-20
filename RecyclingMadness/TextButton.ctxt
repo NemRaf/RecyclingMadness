@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TextButton
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TextButton\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=text\ font
+comment1.target=TextButton(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ TextButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=text\ font
+comment3.target=void\ prep(java.lang.String,\ int)
+numComments=4
